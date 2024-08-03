@@ -7,7 +7,7 @@
   "textSource": "podatki Eurostata",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostop do podatkov",
+  "textDataAccess": "Dostopajte do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }
