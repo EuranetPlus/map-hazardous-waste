@@ -1,13 +1,13 @@
 {
-  "heading": "EU-maissa syntyneet vaaralliset jätteet",
-  "subheading": "EU:n jäsenvaltioiden vuosina 2018 ja 2004 tuottaman vaarallisen jätteen määrän vertailu prosentteina; EU:n keskiarvo: 23 %",
+  "heading": "Kuinka paljon vaarallista jätettä jokainen meistä tuottaa?",
+  "subheading": "EU-kansalainen tuotti keskimäärin 214 kiloa vaarallista jätettä vuonna 2020, mikä on 6,14 prosenttia vähemmän kuin vuonna 2018. ",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "",
+  "tooltip1": "kg asukasta kohden",
   "textSourceDescription": "Lähde",
-  "textSource": "ECA, perustuu Eurostatin tietoihin",
+  "textSource": "Eurostatin tiedot",
   "textNoteDescription": "Huomautus",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=fi",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"
 }

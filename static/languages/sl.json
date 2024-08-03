@@ -1,13 +1,13 @@
 {
-  "heading": "Nevarni odpadki, ki nastajajo v državah EU",
-  "subheading": "Primerjava količin proizvedenih nevarnih odpadkov v državah članicah EU v letih 2018 in 2004 v odstotkih; Povprečje EU: 23 %",
-  "legend1": "Ni podatkov",
-  "tooltip1": "",
+  "heading": "Koliko nevarnih odpadkov proizvede vsak od nas?",
+  "subheading": "Državljan EU je leta 2020 v povprečju proizvedel 214 kg nevarnih odpadkov, kar je 6,14 % manj kot leta 2018 in ",
+  "legend1": "Podatki niso na voljo",
+  "tooltip1": "kg na prebivalca",
   "textSourceDescription": "Vir",
-  "textSource": "ECA, na podlagi podatkov Eurostata",
+  "textSource": "podatki Eurostata",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "textDataAccess": "Dostop do podatkov",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

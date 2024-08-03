@@ -1,13 +1,13 @@
 {
-  "heading": "ES šalyse susidarančios pavojingos atliekos",
-  "subheading": "ES valstybių narių 2018 ir 2004 metais susidariusių pavojingų atliekų kiekio palyginimas procentais; ES vidurkis: 23 proc.",
+  "heading": "Kiek pavojingų atliekų susidaro kiekvienas iš mūsų?",
+  "subheading": "ES pilietis 2020 m. vidutiniškai susidarė 214 kg pavojingų atliekų, ty 6,14 proc. mažiau, palyginti su 2018 m. ",
   "legend1": "Nėra duomenų",
-  "tooltip1": "",
+  "tooltip1": "kg vienam gyventojui",
   "textSourceDescription": "Šaltinis",
-  "textSource": "ECA, remiantis Eurostato duomenimis",
+  "textSource": "Eurostato duomenys",
   "textNoteDescription": "Pastaba",
   "textNote": "",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Farligt avfall som genereras av EU-länder",
-  "subheading": "Jämförelse av mängden farligt avfall som producerats av EU:s medlemsstater 2018 och 2004 i procent; EU-genomsnitt: 23 %",
+  "heading": "Hur mycket farligt avfall producerar var och en av oss?",
+  "subheading": "En EU-medborgare genererade i genomsnitt 214 kg farligt avfall 2020, en minskning med 6,14 % jämfört med 2018 och en ",
   "legend1": "Ingen data tillgänglig",
-  "tooltip1": "",
+  "tooltip1": "kg per capita",
   "textSourceDescription": "Källa",
-  "textSource": "ECA, baserat på uppgifter från Eurostat",
+  "textSource": "Eurostat uppgifter",
   "textNoteDescription": "Notera",
   "textNote": "",
   "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Klicka för mer info"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Gefährliche Abfälle aus EU-Ländern",
-  "subheading": "Vergleich der Menge gefährlicher Abfälle, die von den EU-Mitgliedstaaten in den Jahren 2018 und 2004 produziert wurden, in Prozent; EU-Durchschnitt: 23 %",
+  "heading": "Wie viel Sondermüll produziert jeder von uns?",
+  "subheading": "Ein EU-Bürger erzeugte im Jahr 2020 durchschnittlich 214 kg gefährlichen Abfall, ein Rückgang von 6,14 % gegenüber 2018 und ein",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "",
+  "tooltip1": "kg pro Kopf",
   "textSourceDescription": "Quelle",
-  "textSource": "Europäischer Rechnungshof auf der Grundlage von Eurostat-Daten",
+  "textSource": "Eurostat-Daten",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textDataAccess": "Zugriff auf die Daten",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

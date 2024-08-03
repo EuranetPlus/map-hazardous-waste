@@ -1,13 +1,13 @@
 {
-  "heading": "Gevaarlijk afval geproduceerd door EU-landen",
-  "subheading": "Vergelijking van de hoeveelheid gevaarlijk afval geproduceerd door EU-lidstaten in 2018 en 2004 als percentage; EU-gemiddelde: 23%",
+  "heading": "Hoeveel gevaarlijk afval produceert ieder van ons?",
+  "subheading": "Een EU-burger produceerde in 2020 gemiddeld 214 kg gevaarlijk afval, een daling van 6,14% vergeleken met 2018 en een ",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "",
+  "tooltip1": "kg per hoofd van de bevolking",
   "textSourceDescription": "Bron",
-  "textSource": "ERK, gebaseerd op gegevens van Eurostat",
+  "textSource": "Eurostat-gegevens",
   "textNoteDescription": "Opmerking",
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
-  "textCountryClick": "Klik voor meer info"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
+  "textCountryClick": "Klik voor meer informatie"
 }

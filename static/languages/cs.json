@@ -1,13 +1,13 @@
 {
-  "heading": "Nebezpečný odpad produkovaný zeměmi EU",
-  "subheading": "Porovnání množství nebezpečných odpadů vyprodukovaných členskými státy EU v letech 2018 a 2004 v procentech; Průměr EU: 23 %",
+  "heading": "Kolik nebezpečných odpadů každý z nás vyprodukuje?",
+  "subheading": "Občan EU vyprodukoval v roce 2020 v průměru 214 kg nebezpečného odpadu, což je pokles o 6,14 % ve srovnání s rokem 2018. ",
   "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "",
+  "tooltip1": "kg na obyvatele",
   "textSourceDescription": "Zdroj",
-  "textSource": "EÚD na základě údajů Eurostatu",
+  "textSource": "údaje Eurostatu",
   "textNoteDescription": "Poznámka",
   "textNote": "",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=cs",
   "textCountryClick": "Klikněte pro více informací"
 }

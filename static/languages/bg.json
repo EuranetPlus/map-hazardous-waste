@@ -1,13 +1,13 @@
 {
-  "heading": "Опасни отпадъци, генерирани от страните от ЕС",
-  "subheading": "Сравнение на количеството опасни отпадъци, произведени от държавите-членки на ЕС през 2018 г. и 2004 г. като процент; Средно за ЕС: 23%",
+  "heading": "Колко опасни отпадъци произвежда всеки от нас?",
+  "subheading": "Един гражданин на ЕС е генерирал средно 214 кг опасни отпадъци през 2020 г., което е спад от 6,14% в сравнение с 2018 г. и ",
   "legend1": "Няма данни",
-  "tooltip1": "",
+  "tooltip1": "кг на глава от населението",
   "textSourceDescription": "Източник",
-  "textSource": "ECA, въз основа на данни на Евростат",
+  "textSource": "Данни на Евростат",
   "textNoteDescription": "Забележка",
   "textNote": "",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Кликнете за повече информация"
 }

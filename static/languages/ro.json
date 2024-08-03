@@ -1,13 +1,13 @@
 {
-  "heading": "Deșeuri periculoase generate de țările UE",
-  "subheading": "Comparația cantității de deșeuri periculoase produse de statele membre UE în 2018 și 2004 ca procent; Media UE: 23%",
+  "heading": "Câte deșeuri periculoase produce fiecare dintre noi?",
+  "subheading": "Un cetățean al UE a generat în medie 214 kg de deșeuri periculoase în 2020, o scădere de 6,14% față de 2018 și un ",
   "legend1": "Nici o informatie disponibila",
-  "tooltip1": "",
+  "tooltip1": "kg pe cap de locuitor",
   "textSourceDescription": "Sursă",
-  "textSource": "ECA, pe baza datelor Eurostat",
+  "textSource": "Eurostat data",
   "textNoteDescription": "Notă",
   "textNote": "",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Click pentru mai multe informații"
 }

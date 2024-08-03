@@ -1,13 +1,13 @@
 {
-  "heading": "Odpady niebezpieczne wytwarzane przez kraje UE",
-  "subheading": "Porównanie ilości odpadów niebezpiecznych wytworzonych przez państwa członkowskie UE w 2018 i 2004 r. w procentach; Średnia UE: 23%",
+  "heading": "Ile odpadów niebezpiecznych produkuje każdy z nas?",
+  "subheading": "Obywatel UE wytworzył w 2020 r. średnio 214 kg odpadów niebezpiecznych, co oznacza spadek o 6,14% w porównaniu do 2018 r. oraz ",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "",
+  "tooltip1": "kg na mieszkańca",
   "textSourceDescription": "Źródło",
-  "textSource": "Europejski Trybunał Obrachunkowy na podstawie danych Eurostatu",
+  "textSource": "Dane Eurostatu",
   "textNoteDescription": "Notatka",
   "textNote": "",
   "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

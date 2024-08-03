@@ -1,13 +1,13 @@
 {
-  "heading": "Opasni otpad iz zemalja EU",
-  "subheading": "Usporedba količine opasnog otpada proizvedenog u zemljama članicama EU u 2018. i 2004. u postocima; EU prosjek: 23%",
+  "heading": "Koliko svatko od nas proizvede opasnog otpada?",
+  "subheading": "Građanin EU-a proizveo je u prosjeku 214 kg opasnog otpada u 2020. godini, što je pad od 6,14% u usporedbi s 2018. i ",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "",
+  "tooltip1": "kg po glavi stanovnika",
   "textSourceDescription": "Izvor",
-  "textSource": "ECA, na temelju podataka Eurostata",
+  "textSource": "Podaci Eurostata",
   "textNoteDescription": "Bilješka",
   "textNote": "",
   "textDataAccess": "Pristupite podacima",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

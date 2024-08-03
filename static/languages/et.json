@@ -1,13 +1,13 @@
 {
-  "heading": "EL-i riikides tekkinud ohtlikud jäätmed",
-  "subheading": "EL liikmesriikides 2018. ja 2004. aastal toodetud ohtlike jäätmete koguse võrdlus protsentides; EL keskmine: 23%",
+  "heading": "Kui palju ohtlikke jäätmeid igaüks meist toodab?",
+  "subheading": "ELi kodanik tekitas 2020. aastal keskmiselt 214 kg ohtlikke jäätmeid, mis on 6,14% vähem võrreldes 2018. aastaga ja ",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "",
+  "tooltip1": "kg elaniku kohta",
   "textSourceDescription": "Allikas",
-  "textSource": "ECA, põhineb Eurostati andmetel",
+  "textSource": "Eurostati andmed",
   "textNoteDescription": "Märge",
   "textNote": "",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

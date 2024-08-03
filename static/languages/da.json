@@ -1,13 +1,13 @@
 {
-  "heading": "Farligt affald genereret af EU-lande",
-  "subheading": "Sammenligning af mængden af farligt affald produceret af EU-medlemsstater i 2018 og 2004 i procent; EU-gennemsnit: 23 %",
+  "heading": "Hvor meget farligt affald producerer vi hver især?",
+  "subheading": "En EU-borger genererede i gennemsnit 214 kg farligt affald i 2020, et fald på 6,14 % sammenlignet med 2018 og en ",
   "legend1": "Ingen tilgængelig data",
-  "tooltip1": "",
+  "tooltip1": "kg pr. indbygger",
   "textSourceDescription": "Kilde",
-  "textSource": "ECA, baseret på Eurostat-data",
+  "textSource": "Eurostat data",
   "textNoteDescription": "Bemærk",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=da",
   "textCountryClick": "Klik for mere info"
 }

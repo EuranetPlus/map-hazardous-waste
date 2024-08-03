@@ -1,13 +1,13 @@
 {
-  "heading": "Skart perikoluż iġġenerat mill-pajjiżi tal-UE",
-  "subheading": "Tqabbil tal-ammont ta’ skart perikoluż prodott mill-Istati Membri tal-UE fl-2018 u fl-2004 bħala perċentwal; Medja tal-UE: 23%",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "",
+  "heading": "Kemm tipproduċi skart perikoluż kull wieħed minna?",
+  "subheading": "Ċittadin tal-UE ġġenera medja ta’ 214 kg ta’ skart perikoluż fl-2020, tnaqqis ta’ 6.14 % meta mqabbel mal-2018 u ",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "kg per capita",
   "textSourceDescription": "Sors",
-  "textSource": "QEA, ibbażata fuq data tal-Eurostat",
+  "textSource": "Dejta tal-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Aċċessa għad-data",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"
 }

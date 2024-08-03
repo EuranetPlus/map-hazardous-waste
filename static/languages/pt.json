@@ -1,13 +1,13 @@
 {
-  "heading": "Resíduos perigosos gerados por países da UE",
-  "subheading": "Comparação da quantidade de resíduos perigosos produzidos pelos Estados-Membros da UE em 2018 e 2004 em percentagem; Média da UE: 23%",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "",
+  "heading": "Quantos resíduos perigosos cada um de nós produz?",
+  "subheading": "Um cidadão da UE gerou em média 214 kg de resíduos perigosos em 2020, uma diminuição de 6,14% em comparação com 2018 e um ",
+  "legend1": "Não há dados disponíveis",
+  "tooltip1": "kg per capita",
   "textSourceDescription": "Fonte",
-  "textSource": "ECA, com base em dados do Eurostat",
+  "textSource": "Dados do Eurostat",
   "textNoteDescription": "Observação",
   "textNote": "",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Dramhaíl ghuaiseach arna giniúint ag tíortha an AE",
-  "subheading": "Comparáid idir an méid dramhaíola guaisí a tháirg Ballstáit an AE in 2018 agus 2004 mar chéatadán; Meán an AE: 23%",
+  "heading": "Cé mhéad dramhaíola guaisí a tháirgeann gach duine againn?",
+  "subheading": "Ghin saoránach AE 214 kg de dhramhaíl ghuaiseach ar an meán in 2020, laghdú 6.14% i gcomparáid le 2018 agus a ",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "",
+  "tooltip1": "kg in aghaidh an duine",
   "textSourceDescription": "Foinse",
-  "textSource": "ECA, bunaithe ar shonraí Eurostat",
+  "textSource": "Sonraí Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "",
   "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_ga.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=ga",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

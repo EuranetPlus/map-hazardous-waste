@@ -1,13 +1,13 @@
 {
-  "heading": "Déchets dangereux générés par les pays de l'UE",
-  "subheading": "Comparaison de la quantité de déchets dangereux produits par les États membres de l'UE en 2018 et 2004 en pourcentage ; Moyenne UE : 23 %",
+  "heading": "Quelle quantité de déchets dangereux chacun de nous produit-il ?",
+  "subheading": "Un citoyen de l'UE a généré en moyenne 214 kg de déchets dangereux en 2020, soit une diminution de 6,14 % par rapport à 2018 et un ",
   "legend1": "Pas de données disponibles",
-  "tooltip1": "",
+  "tooltip1": "kg par habitant",
   "textSourceDescription": "Source",
-  "textSource": "Cour des comptes européenne, sur la base des données d'Eurostat",
+  "textSource": "Données Eurostat",
   "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

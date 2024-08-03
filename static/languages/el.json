@@ -1,13 +1,13 @@
 {
-  "heading": "Επικίνδυνα απόβλητα που παράγονται από χώρες της Ε.Ε",
-  "subheading": "Σύγκριση της ποσότητας επικίνδυνων αποβλήτων που παρήχθησαν από τα κράτη μέλη της ΕΕ το 2018 και το 2004 ως ποσοστό· Μέσος όρος ΕΕ: 23%",
+  "heading": "Πόσα επικίνδυνα απόβλητα παράγει ο καθένας μας;",
+  "subheading": "Ένας πολίτης της ΕΕ παρήγαγε κατά μέσο όρο 214 κιλά επικίνδυνων αποβλήτων το 2020, μείωση 6,14% σε σύγκριση με το 2018 και ",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
-  "tooltip1": "",
+  "tooltip1": "κιλά κατά κεφαλήν",
   "textSourceDescription": "Πηγή",
-  "textSource": "ECA, με βάση τα στοιχεία της Eurostat",
+  "textSource": "στοιχεία της Eurostat",
   "textNoteDescription": "Σημείωση",
   "textNote": "",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
 }

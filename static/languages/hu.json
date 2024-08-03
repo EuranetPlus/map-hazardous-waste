@@ -1,13 +1,13 @@
 {
-  "heading": "Az EU országaiban keletkezett veszélyes hulladék",
-  "subheading": "Az EU-tagállamok által 2018-ban és 2004-ben termelt veszélyes hulladék mennyiségének százalékos összehasonlítása; EU átlag: 23%",
+  "heading": "Mennyi veszélyes hulladékot termelünk mindegyikünkben?",
+  "subheading": "Egy uniós polgár átlagosan 214 kg veszélyes hulladékot termelt 2020-ban, ami 6,14%-os csökkenést jelent 2018-hoz képest. ",
   "legend1": "Nincs elérhető adat",
-  "tooltip1": "",
+  "tooltip1": "kg fejenként",
   "textSourceDescription": "Forrás",
-  "textSource": "ECA, az Eurostat adatai alapján",
+  "textSource": "Eurostat adatok",
   "textNoteDescription": "jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://www.eca.europa.eu/lists/ecadocuments/rw23_02/rw_hazardous_waste_en.pdf",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "További információért kattintson"
 }
