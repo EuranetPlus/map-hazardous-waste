@@ -1,12 +1,12 @@
 {
-  "heading": "Kuinka paljon vaarallista jätettä jokainen meistä tuottaa?",
-  "subheading": "EU-kansalainen tuotti keskimäärin 214 kiloa vaarallista jätettä vuonna 2020, mikä on 6,14 % vähemmän kuin vuonna 2018. ",
+  "heading": "Kuinka paljon vaarallisten jätteiden tuotto muuttui?",
+  "subheading": "EU-kansalainen tuotti vuonna 2020 keskimäärin 214 kiloa vaarallista jätettä, mikä on 6,14 prosenttia vähemmän kuin vuonna 2018.",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "kg asukasta kohden",
+  "tooltip1": "vaarallisten jätteiden syntymisen muutos",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostatin tiedot",
   "textNoteDescription": "Huomautus",
-  "textNote": "",
+  "textNote": "Italialle syntyneiden vaarallisten jätteiden määrä ei muuttunut vuodesta 2020 alkaen.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=fi",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"

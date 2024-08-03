@@ -1,12 +1,12 @@
 {
-  "heading": "Cik daudz bīstamo atkritumu katrs no mums rada?",
-  "subheading": "Viens ES pilsonis 2020. gadā radīja vidēji 214 kg bīstamo atkritumu, kas ir par 6,14% mazāk nekā 2018. gadā un ",
+  "heading": "Cik lielā mērā mainījās bīstamo atkritumu veidošanās?",
+  "subheading": "ES pilsonis 2020. gadā vidēji radīja 214 kg bīstamo atkritumu, kas ir par 6,14% mazāk nekā 2018. gadā.",
   "legend1": "Nav pieejami dati",
-  "tooltip1": "kg uz vienu iedzīvotāju",
+  "tooltip1": "izmaiņas bīstamo atkritumu veidošanā",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat dati",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "No 2020. gada Itālijai nav izmaiņu radīto bīstamo atkritumu skaitā.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"

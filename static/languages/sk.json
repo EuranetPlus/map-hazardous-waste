@@ -1,12 +1,12 @@
 {
-  "heading": "Koľko nebezpečného odpadu vyprodukuje každý z nás?",
-  "subheading": "Občan EÚ vyprodukoval v roku 2020 v priemere 214 kg nebezpečného odpadu, čo je pokles o 6,14 % v porovnaní s rokom 2018 a ",
+  "heading": "Ako veľmi sa zmenila tvorba nebezpečného odpadu?",
+  "subheading": "Občan EÚ vyprodukoval v roku 2020 v priemere 214 kg nebezpečného odpadu, čo je v porovnaní s rokom 2018 pokles o 6,14 %.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "kg na obyvateľa",
+  "tooltip1": "zmena tvorby nebezpečného odpadu",
   "textSourceDescription": "Zdroj",
   "textSource": "údaje Eurostatu",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Pre Taliansko sa od roku 2020 neuvádza žiadna zmena v produkcii nebezpečného odpadu.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=sk",
   "textCountryClick": "Kliknite pre viac informácií"

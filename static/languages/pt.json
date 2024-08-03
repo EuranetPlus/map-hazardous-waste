@@ -1,12 +1,12 @@
 {
-  "heading": "Quantos resíduos perigosos cada um de nós produz?",
-  "subheading": "Um cidadão da UE gerou em média 214 kg de resíduos perigosos em 2020, uma diminuição de 6,14% em comparação com 2018 e um ",
+  "heading": "Quanto mudou a geração de resíduos perigosos?",
+  "subheading": "Um cidadão da UE gerou em média 214 kg de resíduos perigosos em 2020, uma diminuição de 6,14% em relação a 2018.",
   "legend1": "Não há dados disponíveis",
-  "tooltip1": "kg per capita",
+  "tooltip1": "mudança na geração de resíduos perigosos",
   "textSourceDescription": "Fonte",
   "textSource": "Dados do Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "",
+  "textNote": "Nenhuma alteração nos resíduos perigosos gerados para a Itália em 2020.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

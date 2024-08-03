@@ -1,12 +1,12 @@
 {
-  "heading": "Câte deșeuri periculoase produce fiecare dintre noi?",
-  "subheading": "Un cetățean al UE a generat în medie 214 kg de deșeuri periculoase în 2020, o scădere de 6,14% față de 2018 și o ",
+  "heading": "Cât de mult s-a schimbat generarea deșeurilor periculoase?",
+  "subheading": "Un cetățean al UE a generat în medie 214 kg de deșeuri periculoase în 2020, o scădere de 6,14% față de 2018.",
   "legend1": "Nici o informatie disponibila",
-  "tooltip1": "kg pe cap de locuitor",
+  "tooltip1": "modificarea generării deșeurilor periculoase",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat data",
   "textNoteDescription": "Notă",
-  "textNote": "",
+  "textNote": "Nicio modificare a deșeurilor periculoase generate pentru Italia din 2020.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Click pentru mai multe informații"

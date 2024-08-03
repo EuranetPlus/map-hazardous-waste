@@ -1,12 +1,12 @@
 {
-  "heading": "Kemm tipproduċi skart perikoluż kull wieħed minna?",
-  "subheading": "Ċittadin tal-UE ġġenera medja ta’ 214 kg ta’ skart perikoluż fl-2020, tnaqqis ta’ 6.14 % meta mqabbel mal-2018 u ",
+  "heading": "Kemm inbidlet il-ġenerazzjoni ta' skart perikoluż?",
+  "subheading": "Ċittadin tal-UE ġġenera medja ta’ 214 kg ta’ skart perikoluż fl-2020, tnaqqis ta’ 6.14 % meta mqabbel mal-2018.",
   "legend1": "Ebda data disponibbli",
-  "tooltip1": "kg per capita",
+  "tooltip1": "bidla fil-ġenerazzjoni ta' skart perikoluż",
   "textSourceDescription": "Sors",
   "textSource": "Dejta tal-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "L-ebda bidla fl-iskart perikoluż iġġenerat ma ngħatat għall-Italja mill-2020.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"

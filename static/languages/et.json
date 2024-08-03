@@ -1,12 +1,12 @@
 {
-  "heading": "Kui palju ohtlikke jäätmeid igaüks meist toodab?",
-  "subheading": "EL-i kodanik tekitas 2020. aastal keskmiselt 214 kg ohtlikke jäätmeid, mis on 6,14% vähem võrreldes 2018. aastaga ja ",
+  "heading": "Kui palju muutus ohtlike jäätmete teke?",
+  "subheading": "EL-i kodanik tekitas 2020. aastal keskmiselt 214 kg ohtlikke jäätmeid, mis on 6,14% vähem kui 2018. aastal.",
   "legend1": "Andmed puuduvad",
-  "tooltip1": "kg elaniku kohta",
+  "tooltip1": "muutus ohtlike jäätmete tekkes",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostati andmed",
   "textNoteDescription": "Märge",
-  "textNote": "",
+  "textNote": "Itaalia jaoks 2020. aasta seisuga tekkivate ohtlike jäätmete osas muutusi ei ole.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

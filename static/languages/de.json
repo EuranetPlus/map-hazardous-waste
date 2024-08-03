@@ -1,12 +1,12 @@
 {
-  "heading": "Wie viel Sondermüll produziert jeder von uns?",
-  "subheading": "Ein EU-Bürger erzeugte im Jahr 2020 durchschnittlich 214 kg gefährlichen Abfall, ein Rückgang von 6,14 % gegenüber 2018 und ein",
+  "heading": "Wie stark hat sich die Sondermüllentsorgung verändert?",
+  "subheading": "Im Jahr 2020 erzeugte ein EU-Bürger durchschnittlich 214 kg gefährlichen Abfall, was einem Rückgang von 6,14 % gegenüber 2018 entspricht.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "kg pro Kopf",
+  "tooltip1": "Veränderung der Erzeugung gefährlicher Abfälle",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat-Daten",
   "textNoteDescription": "Notiz",
-  "textNote": "",
+  "textNote": "Für Italien ist ab 2020 keine Änderung der Menge gefährlicher Abfälle angegeben.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"

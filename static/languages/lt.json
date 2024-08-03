@@ -1,12 +1,12 @@
 {
-  "heading": "Kiek pavojingų atliekų susidaro kiekvienas iš mūsų?",
-  "subheading": "ES pilietis 2020 m. vidutiniškai susidarė 214 kg pavojingų atliekų, ty 6,14 % mažiau, palyginti su 2018 m. ",
+  "heading": "Kiek pasikeitė pavojingų atliekų susidarymas?",
+  "subheading": "ES pilietis 2020 metais vidutiniškai susidarė 214 kg pavojingų atliekų – 6,14% mažiau nei 2018 metais.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "kg vienam gyventojui",
+  "tooltip1": "pavojingų atliekų susidarymo pokytis",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostato duomenys",
   "textNoteDescription": "Pastaba",
-  "textNote": "",
+  "textNote": "Nuo 2020 metų Italijai pateiktas susidarančių pavojingų atliekų kiekis nepasikeitė.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
