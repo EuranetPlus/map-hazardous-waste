@@ -1,8 +1,8 @@
 {
-  "heading": "How much did the hazardous waste generation change?",
-  "subheading": "An EU citizen generated on average 214 kg of hazardous waste in 2020, a decrease of 6.14% compared to 2018.",
+  "heading": "How high is the share of hazardous waste generation?",
+  "subheading": "4.4% of the total generated waste by an EU citizen is hazardous. That equals on average 214 kg of hazardous waste in 2020, a decrease of 6.14% compared to 2018.",
   "legend1": "No data available",
-  "tooltip1": "change in hazardous waste generation",
+  "tooltip1": "share of total waste",
   "textSourceDescription": "Source",
   "textSource": "Eurostat data",
   "textNoteDescription": "Note",
