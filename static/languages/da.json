@@ -1,13 +1,13 @@
 {
-  "heading": "Hvor meget ændrede genereringen af farligt affald sig?",
-  "subheading": "En EU-borger genererede i gennemsnit 214 kg farligt affald i 2020, et fald på 6,14 % i forhold til 2018.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "ændringer i generering af farligt affald",
+  "heading": "Hvor høj er andelen af generering af farligt affald?",
+  "subheading": "4,4 % af det samlede affald, der genereres af en EU-borger, er farligt. Det svarer til i gennemsnit 214 kg farligt affald i 2020, et fald på 6,14 % i forhold til 2018.",
+  "legend1": "Ingen tilgængelige data",
+  "tooltip1": "andel af det samlede affald",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat data",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "Ingen ændring i genereret farligt affald givet for Italien fra 2020.",
-  "textDataAccess": "Få adgang til dataene",
+  "textDataAccess": "Få adgang til data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=da",
   "textCountryClick": "Klik for mere info"
 }

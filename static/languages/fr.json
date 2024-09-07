@@ -1,12 +1,12 @@
 {
-  "heading": "Dans quelle mesure la production de déchets dangereux a-t-elle changé ?",
-  "subheading": "Un citoyen de l’UE a généré en moyenne 214 kg de déchets dangereux en 2020, soit une diminution de 6,14 % par rapport à 2018.",
-  "legend1": "Pas de données disponibles",
-  "tooltip1": "changement dans la production de déchets dangereux",
+  "heading": "Quelle est la part de la production de déchets dangereux ?",
+  "subheading": "4,4 % du total des déchets produits par un citoyen de l’UE sont dangereux. Cela équivaut en moyenne à 214 kg de déchets dangereux en 2020, soit une diminution de 6,14 % par rapport à 2018.",
+  "legend1": "Aucune donnée disponible",
+  "tooltip1": "part du total des déchets",
   "textSourceDescription": "Source",
   "textSource": "Données Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Aucun changement dans les déchets dangereux générés pour l'Italie à partir de 2020.",
+  "textNote": "Aucun changement dans les déchets dangereux générés n'a été signalé pour l'Italie à partir de 2020.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=fr",
   "textCountryClick": "Cliquez pour plus d'informations"

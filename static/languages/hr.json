@@ -1,8 +1,8 @@
 {
-  "heading": "Koliko se promijenila proizvodnja opasnog otpada?",
-  "subheading": "Stanovnik EU-a proizveo je u prosjeku 214 kg opasnog otpada u 2020. godini, što je pad od 6,14% u odnosu na 2018. godinu.",
+  "heading": "Koliki je udio stvaranja opasnog otpada?",
+  "subheading": "Opasno je 4,4% ukupnog otpada koji proizvede građanin EU-a. To je prosječno 214 kg opasnog otpada u 2020. godini, što je smanjenje od 6,14% u odnosu na 2018. godinu.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "promjena u stvaranju opasnog otpada",
+  "tooltip1": "udio ukupnog otpada",
   "textSourceDescription": "Izvor",
   "textSource": "Podaci Eurostata",
   "textNoteDescription": "Bilješka",

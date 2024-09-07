@@ -1,8 +1,8 @@
 {
-  "heading": "Koliko se je spremenilo nastajanje nevarnih odpadkov?",
-  "subheading": "Državljan EU je leta 2020 v povprečju proizvedel 214 kg nevarnih odpadkov, kar je 6,14 % manj kot leta 2018.",
+  "heading": "Kolikšen je delež nastajanja nevarnih odpadkov?",
+  "subheading": "4,4 % vseh odpadkov, ki jih ustvari državljan EU, je nevarnih. To je v povprečju 214 kg nevarnih odpadkov v letu 2020, kar je 6,14 % manj kot v letu 2018.",
   "legend1": "Podatki niso na voljo",
-  "tooltip1": "sprememba nastajanja nevarnih odpadkov",
+  "tooltip1": "delež vseh odpadkov",
   "textSourceDescription": "Vir",
   "textSource": "podatki Eurostata",
   "textNoteDescription": "Opomba",
