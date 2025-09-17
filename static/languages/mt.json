@@ -1,13 +1,13 @@
 {
-  "heading": "Kemm huwa għoli s-sehem tal-ġenerazzjoni ta' skart perikoluż?",
-  "subheading": "4.4 % tal-iskart totali ġġenerat minn ċittadin tal-UE huwa perikoluż. Dan huwa daqs medja ta' 214 kg ta' skart perikoluż fl-2020, tnaqqis ta' 6.14% meta mqabbel mal-2018.",
+  "heading": "Kemm hu għoli s-sehem tal-ġenerazzjoni ta' skart perikoluż?",
+  "subheading": "4.4% tal-iskart totali ġġenerat minn ċittadin tal-UE huwa perikoluż. Dan huwa ekwivalenti għal medja ta’ 214 kg ta’ skart perikoluż fl-2020, tnaqqis ta’ 6.14% meta mqabbel mal-2018.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "sehem mill-iskart totali",
+  "tooltip1": "sehem tal-iskart totali",
   "textSourceDescription": "Sors",
-  "textSource": "Dejta tal-Eurostat",
+  "textSource": "Data tal-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "L-ebda bidla fl-iskart perikoluż iġġenerat ma ngħatat għall-Italja mill-2020.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Ma ngħatat l-ebda bidla fl-iskart perikoluż iġġenerat għall-Italja mill-2020.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

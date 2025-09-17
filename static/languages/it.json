@@ -1,13 +1,13 @@
 {
-  "heading": "Quanto è elevata la quota di produzione di rifiuti pericolosi?",
-  "subheading": "Il 4,4% del totale dei rifiuti generati da un cittadino dell'UE è pericoloso. Ciò equivale in media a 214 kg di rifiuti pericolosi nel 2020, con un calo del 6,14% rispetto al 2018.",
+  "heading": "Qual è la quota di produzione di rifiuti pericolosi?",
+  "subheading": "Il 4,4% del totale dei rifiuti prodotti da un cittadino dell'UE è pericoloso. Ciò equivale a una media di 214 kg di rifiuti pericolosi nel 2020, con un calo del 6,14% rispetto al 2018.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "quota di rifiuti totali",
+  "tooltip1": "quota dei rifiuti totali",
   "textSourceDescription": "Fonte",
-  "textSource": "Dati Eurostat",
+  "textSource": "Data Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Nessuna variazione nei rifiuti pericolosi prodotti in Italia a partire dal 2020.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

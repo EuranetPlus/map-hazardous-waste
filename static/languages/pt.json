@@ -1,10 +1,10 @@
 {
   "heading": "Qual é a parcela de geração de resíduos perigosos?",
-  "subheading": "4,4% do total de resíduos gerados por um cidadão da UE são perigosos. Isso equivale a uma média de 214 kg de resíduos perigosos em 2020, uma redução de 6,14% em comparação a 2018.",
-  "legend1": "Não há dados disponíveis",
+  "subheading": "4,4% do total de resíduos gerados por um cidadão da UE são perigosos. Isso equivale a uma média de 214 kg de resíduos perigosos em 2020, uma redução de 6,14% em relação a 2018.",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "parcela do total de resíduos",
   "textSourceDescription": "Fonte",
-  "textSource": "Dados do Eurostat",
+  "textSource": "Data do Eurostat",
   "textNoteDescription": "Observação",
   "textNote": "Nenhuma alteração nos resíduos perigosos gerados na Itália em 2020.",
   "textDataAccess": "Acesse os dados",

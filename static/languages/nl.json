@@ -1,13 +1,13 @@
 {
   "heading": "Hoe hoog is het aandeel gevaarlijk afval?",
-  "subheading": "4,4% van het totale afval dat een EU-burger produceert, is gevaarlijk. Dat staat gelijk aan gemiddeld 214 kg gevaarlijk afval in 2020, een daling van 6,14% ten opzichte van 2018.",
+  "subheading": "4,4% van het totale afval dat een EU-burger produceert, is gevaarlijk. Dat komt neer op gemiddeld 214 kg gevaarlijk afval in 2020, een daling van 6,14% ten opzichte van 2018.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "aandeel in het totale afval",
+  "tooltip1": "aandeel van het totale afval",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat-gegevens",
+  "textSource": "Eurostat-datum",
   "textNoteDescription": "Opmerking",
-  "textNote": "Er is geen verandering gemeld in het gegenereerde gevaarlijke afval voor Italië vanaf 2020.",
+  "textNote": "Er is geen verandering gemeld in gegenereerd gevaarlijk afval voor Italië vanaf 2020.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

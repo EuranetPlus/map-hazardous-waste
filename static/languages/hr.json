@@ -1,13 +1,13 @@
 {
-  "heading": "Koliki je udio stvaranja opasnog otpada?",
-  "subheading": "Opasno je 4,4% ukupnog otpada koji proizvede građanin EU-a. To je prosječno 214 kg opasnog otpada u 2020. godini, što je smanjenje od 6,14% u odnosu na 2018. godinu.",
+  "heading": "Koliki je udio proizvodnje opasnog otpada?",
+  "subheading": "4,4% ukupnog otpada koji generira građanin EU je opasan. To je u prosjeku jednako 214 kg opasnog otpada u 2020. godini, što je smanjenje od 6,14% u usporedbi s 2018. godinom.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "udio ukupnog otpada",
   "textSourceDescription": "Izvor",
-  "textSource": "Podaci Eurostata",
+  "textSource": "Datum Eurostata",
   "textNoteDescription": "Bilješka",
-  "textNote": "Nema promjena u proizvedenom opasnom otpadu za Italiju od 2020.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Nije navedena promjena u proizvedenom opasnom otpadu za Italiju od 2020. godine.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Hur hög är andelen farligt avfall?",
-  "subheading": "4,4 % av det totala avfallet som genereras av en EU-medborgare är farligt. Det motsvarar i genomsnitt 214 kg farligt avfall 2020, en minskning med 6,14 % jämfört med 2018.",
+  "heading": "Hur hög är andelen farligt avfall som genereras?",
+  "subheading": "4,4 % av det totala avfallet som genereras av en EU-medborgare är farligt. Det motsvarar i genomsnitt 214 kg farligt avfall år 2020, en minskning med 6,14 % jämfört med 2018.",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "andel av det totala avfallet",
+  "tooltip1": "andel av totalt avfall",
   "textSourceDescription": "Källa",
-  "textSource": "Eurostat uppgifter",
+  "textSource": "Eurostat-datum",
   "textNoteDescription": "Notera",
-  "textNote": "Ingen förändring av genererat farligt avfall ges för Italien från och med 2020.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Ingen förändring i genererat farligt avfall angivet för Italien från och med 2020.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

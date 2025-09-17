@@ -1,13 +1,13 @@
 {
   "heading": "Jaki jest udział wytwarzanych odpadów niebezpiecznych?",
-  "subheading": "4,4% wszystkich odpadów wytwarzanych przez obywatela UE jest niebezpieczne. To odpowiada średnio 214 kg odpadów niebezpiecznych w 2020 r., co stanowi spadek o 6,14% w porównaniu z 2018 r.",
+  "subheading": "4,4% całkowitej ilości odpadów wytwarzanych przez obywatela UE to odpady niebezpieczne. To odpowiada średnio 214 kg odpadów niebezpiecznych w 2020 roku, co stanowi spadek o 6,14% w porównaniu z 2018 rokiem.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "udział w całkowitych odpadach",
   "textSourceDescription": "Źródło",
-  "textSource": "Dane Eurostatu",
+  "textSource": "Data Eurostatu",
   "textNoteDescription": "Notatka",
-  "textNote": "We Włoszech w 2020 r. nie odnotowano zmian w ilości wytworzonych odpadów niebezpiecznych.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "We Włoszech w 2020 r. nie odnotowano żadnych zmian w ilości wytworzonych odpadów niebezpiecznych.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

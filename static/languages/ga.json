@@ -1,13 +1,13 @@
 {
   "heading": "Cé chomh hard is atá an sciar de ghiniúint dramhaíola guaisí?",
-  "subheading": "Tá 4.4% den dramhaíl iomlán ginte ag saoránach AE guaiseach. Is ionann sin agus 214 kg de dhramhaíl ghuaiseach ar an meán in 2020, laghdú 6.14% i gcomparáid le 2018.",
+  "subheading": "Is dramhaíl ghuaiseach í 4.4% den dramhaíl iomlán a ghintear ag saoránach den AE. Is ionann sin agus 214 kg de dhramhaíl ghuaiseach ar an meán in 2020, laghdú 6.14% i gcomparáid le 2018.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "sciar den dramhaíl iomlán",
   "textSourceDescription": "Foinse",
-  "textSource": "Sonraí Eurostat",
+  "textSource": "Dáta Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Níor tugadh aon athrú ar an dramhaíl ghuaiseach a ghintear don Iodáil ó 2020.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=ga",
+  "textNote": "Gan aon athrú ar an dramhaíl ghuaiseach a gineadh tugtha don Iodáil ó 2020.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
