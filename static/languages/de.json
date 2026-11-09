@@ -1,10 +1,10 @@
 {
-  "heading": "Wie hoch ist der Anteil der gefährlichen Abfälle?",
+  "heading": "Wie hoch ist der Anteil der gefährlichen Abfallerzeugung?",
   "subheading": "Im Jahr 2024 machten gefährliche Abfälle 5,9 % des gesamten Abfallaufkommens pro Kopf in der EU aus. Dies entspricht einem Durchschnitt von 286 kg gefährlichen Abfällen pro Kopf, ein Anstieg um 13,9 % gegenüber 251 kg im Jahr 2020.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Anteil am Gesamtabfall",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat-Datum",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notiz",
   "textNote": "",
   "textDataAccess": "Greifen Sie auf die Daten zu.",
