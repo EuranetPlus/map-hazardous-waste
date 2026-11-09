@@ -1,13 +1,13 @@
 {
-  "heading": "Quelle est la part de la production de déchets dangereux ?",
-  "subheading": "4,4 % du total des déchets produits par un citoyen de l'UE sont dangereux. Cela représente en moyenne 214 kg de déchets dangereux en 2020, soit une baisse de 6,14 % par rapport à 2018.",
+  "heading": "Quel est le pourcentage de déchets dangereux produits ?",
+  "subheading": "En 2024, les déchets dangereux représentaient 5,9 % de l'ensemble des déchets produits par personne dans l'UE. Cela correspond à une moyenne de 286 kg de déchets dangereux par habitant, soit une augmentation de 13,9 % par rapport aux 251 kg de 2020.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "part du total des déchets",
+  "tooltip1": "part des déchets totaux",
   "textSourceDescription": "Source",
-  "textSource": "Date d'Eurostat",
+  "textSource": "Date Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Aucun changement dans les déchets dangereux générés n'a été signalé pour l'Italie en 2020.",
+  "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

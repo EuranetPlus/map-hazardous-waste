@@ -1,12 +1,12 @@
 {
   "heading": "Koliki je udio proizvodnje opasnog otpada?",
-  "subheading": "4,4% ukupnog otpada koji generira građanin EU je opasan. To je u prosjeku jednako 214 kg opasnog otpada u 2020. godini, što je smanjenje od 6,14% u usporedbi s 2018. godinom.",
+  "subheading": "U 2024. godini opasni otpad činio je 5,9% ukupnog otpada proizvedenog po osobi u EU. To odgovara prosjeku od 286 kg opasnog otpada po glavi stanovnika, što je porast od 13,9% u odnosu na 251 kg u 2020. godini.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "udio ukupnog otpada",
   "textSourceDescription": "Izvor",
   "textSource": "Datum Eurostata",
   "textNoteDescription": "Bilješka",
-  "textNote": "Nije navedena promjena u proizvedenom opasnom otpadu za Italiju od 2020. godine.",
+  "textNote": "",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"

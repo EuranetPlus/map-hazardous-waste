@@ -1,12 +1,12 @@
 {
   "heading": "Kuinka suuri on vaarallisen jätteen osuus?",
-  "subheading": "EU-kansalaisen tuottamasta kokonaisjätteestä 4,4 % on vaarallista. Tämä vastaa keskimäärin 214 kg vaarallista jätettä vuonna 2020, mikä on 6,14 % vähemmän kuin vuonna 2018.",
+  "subheading": "Vuonna 2024 vaarallisen jätteen osuus kaikesta EU:ssa syntyneestä jätteestä henkeä kohti oli 5,9 %. Tämä vastaa keskimäärin 286 kg vaarallista jätettä henkeä kohti, mikä on 13,9 % enemmän kuin vuonna 2020, jolloin vastaava luku oli 251 kg.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "osuus kokonaisjätteestä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostatin päivämäärä",
   "textNoteDescription": "Huomautus",
-  "textNote": "Italian osalta ei ilmoitettu muutoksia syntyneiden vaarallisten jätteiden määrässä vuonna 2020.",
+  "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"

@@ -1,13 +1,13 @@
 {
-  "heading": "Wie hoch ist der Anteil gefährlicher Abfälle?",
-  "subheading": "4,4 % des gesamten Abfallaufkommens eines EU-Bürgers sind gefährlich. Das entspricht durchschnittlich 214 kg gefährlichem Abfall im Jahr 2020, ein Rückgang von 6,14 % gegenüber 2018.",
+  "heading": "Wie hoch ist der Anteil der gefährlichen Abfälle?",
+  "subheading": "Im Jahr 2024 machten gefährliche Abfälle 5,9 % des gesamten Abfallaufkommens pro Kopf in der EU aus. Dies entspricht einem Durchschnitt von 286 kg gefährlichen Abfällen pro Kopf, ein Anstieg um 13,9 % gegenüber 251 kg im Jahr 2020.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Anteil am Gesamtabfall",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat-Datum",
   "textNoteDescription": "Notiz",
-  "textNote": "Für Italien gibt es ab 2020 keine Änderung der Menge an gefährlichen Abfällen.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

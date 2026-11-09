@@ -1,12 +1,12 @@
 {
   "heading": "Kui suur on ohtlike jäätmete tekke osakaal?",
-  "subheading": "4,4% ELi kodaniku tekitatud jäätmetest on ohtlikud. See võrdub keskmiselt 214 kg ohtlike jäätmetega 2020. aastal, mis on 6,14% vähem kui 2018. aastal.",
+  "subheading": "2024. aastal moodustasid ohtlikud jäätmed 5,9% kogu ELis inimese kohta tekitatud jäätmetest. See vastab keskmiselt 286 kg ohtlikele jäätmetele inimese kohta, mis on 13,9% rohkem kui 2020. aasta 251 kg.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "osakaal kogujäätmetest",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostati kuupäev",
   "textNoteDescription": "Märkus",
-  "textNote": "Itaalia kohta ei ole 2020. aasta seisuga teatatud muutusi tekkinud ohtlike jäätmetes.",
+  "textNote": "",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

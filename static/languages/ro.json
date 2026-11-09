@@ -1,12 +1,12 @@
 {
   "heading": "Cât de mare este ponderea generării de deșeuri periculoase?",
-  "subheading": "4,4% din totalul deșeurilor generate de un cetățean al UE sunt periculoase. Aceasta echivalează în medie cu 214 kg de deșeuri periculoase în 2020, o scădere de 6,14% față de 2018.",
+  "subheading": "În 2024, deșeurile periculoase au reprezentat 5,9% din totalul deșeurilor generate pe cap de locuitor în UE. Aceasta corespunde unei medii de 286 kg de deșeuri periculoase pe cap de locuitor, în creștere cu 13,9% față de 251 kg în 2020.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "ponderea din totalul deșeurilor",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat data",
   "textNoteDescription": "Nota",
-  "textNote": "Nicio modificare a deșeurilor periculoase generate pentru Italia începând cu 2020.",
+  "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=ro",
   "textCountryClick": "Faceți clic pentru mai multe informații"

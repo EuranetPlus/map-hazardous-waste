@@ -1,12 +1,12 @@
 {
   "heading": "Kokia didelė yra pavojingų atliekų susidarymo dalis?",
-  "subheading": "4,4 % visų ES piliečio susidarančių atliekų yra pavojingos. Tai atitinka vidutiniškai 214 kg pavojingų atliekų 2020 m., t. y. 6,14 % mažiau nei 2018 m.",
+  "subheading": "2024 m. pavojingos atliekos sudarė 5,9 % visų ES vienam gyventojui susidariusių atliekų. Tai atitinka vidutiniškai 286 kg pavojingų atliekų vienam gyventojui, t. y. 13,9 % daugiau nei 251 kg 2020 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "visų atliekų dalis",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostato data",
   "textNoteDescription": "Pastaba",
-  "textNote": "Nuo 2020 m. Italijos susidariusių pavojingų atliekų kiekis nepakito.",
+  "textNote": "",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

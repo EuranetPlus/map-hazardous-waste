@@ -1,12 +1,12 @@
 {
   "heading": "Mekkora a veszélyes hulladékok keletkezésének aránya?",
-  "subheading": "Az uniós polgárok által termelt teljes hulladék 4,4%-a veszélyes. Ez átlagosan 214 kg veszélyes hulladékot jelent 2020-ban, ami 6,14%-os csökkenést jelent 2018-hoz képest.",
+  "subheading": "2024-ben a veszélyes hulladék az EU-ban fejenként keletkező összes hulladék 5,9%-át tette ki. Ez átlagosan 286 kg/fő veszélyes hulladéknak felel meg, ami 13,9%-os növekedést jelent a 2020-as 251 kg-hoz képest.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "a teljes hulladék aránya",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat-dátum",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Olaszország esetében nem történt változás a keletkezett veszélyes hulladék mennyiségében 2020-ban.",
+  "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"

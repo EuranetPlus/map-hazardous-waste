@@ -1,13 +1,13 @@
 {
-  "heading": "¿Qué tan alta es la proporción de generación de residuos peligrosos?",
-  "subheading": "El 4,4 % del total de residuos generados por un ciudadano de la UE son peligrosos. Esto equivale a una media de 214 kg de residuos peligrosos en 2020, una disminución del 6,14 % con respecto a 2018.",
+  "heading": "¿Qué porcentaje representa la generación de residuos peligrosos?",
+  "subheading": "En 2024, los residuos peligrosos representaron el 5,9 % del total de residuos generados por persona en la UE. Esto equivale a una media de 286 kg de residuos peligrosos por persona, un 13,9 % más que los 251 kg de 2020.",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "proporción del total de residuos",
+  "tooltip1": "porcentaje del total de residuos",
   "textSourceDescription": "Fuente",
   "textSource": "Fecha de Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "No se han registrado cambios en los residuos peligrosos generados en Italia a partir de 2020.",
+  "textNote": "",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=es",
-  "textCountryClick": "Haga clic para más información"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
+  "textCountryClick": "Haz clic para obtener más información."
 }

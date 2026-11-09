@@ -1,12 +1,12 @@
 {
   "heading": "Aký vysoký je podiel produkcie nebezpečného odpadu?",
-  "subheading": "4,4 % z celkového množstva odpadu vyprodukovaného občanom EÚ je nebezpečného. To sa v roku 2020 rovná priemerne 214 kg nebezpečného odpadu, čo predstavuje pokles o 6,14 % v porovnaní s rokom 2018.",
+  "subheading": "V roku 2024 predstavoval nebezpečný odpad 5,9 % všetkého odpadu vyprodukovaného na osobu v EÚ. To zodpovedá priemeru 286 kg nebezpečného odpadu na obyvateľa, čo je o 13,9 % viac ako 251 kg v roku 2020.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "podiel na celkovom odpade",
   "textSourceDescription": "Zdroj",
   "textSource": "Dátum Eurostatu",
   "textNoteDescription": "Poznámka",
-  "textNote": "V Taliansku sa od roku 2020 neuvádza žiadna zmena v množstve vyprodukovaného nebezpečného odpadu.",
+  "textNote": "",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
