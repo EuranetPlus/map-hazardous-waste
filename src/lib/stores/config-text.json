@@ -1,12 +1,12 @@
 {
   "heading": "How high is the share of hazardous waste generation?",
-  "subheading": "4.4% of the total generated waste by an EU citizen is hazardous. That equals on average 214 kg of hazardous waste in 2020, a decrease of 6.14% compared to 2018.",
+  "subheading": "In 2024, hazardous waste accounted for 5.9% of all waste generated per person in the EU. This corresponds to an average of 286 kg per capita of hazardous waste per capita, up 13.9% from 251 kg in 2020.",
   "legend1": "No data available",
   "tooltip1": "share of total waste",
   "textSourceDescription": "Source",
   "textSource": "Eurostat data",
   "textNoteDescription": "Note",
-  "textNote": "No change in generated hazardous waste given for Italy as of 2020.",
+  "textNote": "",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_wasgen__custom_12312307/default/table?lang=en",
   "textCountryClick": "Click for more info"
